@@ -3,7 +3,7 @@
 
 
 - Complexity
-  (Big O Notation) [https://www.youtube.com/watch?v=v4cd1O4zkGw]
+  [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 
 
 - Algorithm
