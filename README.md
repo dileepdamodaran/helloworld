@@ -2,7 +2,7 @@
 
 
 
--  [Complexity](https://www.coursera.org/learn/algorithms-part1/lecture/EcF3P/quick-find)
+-  [Complexity](#complexity)
  
 
 
