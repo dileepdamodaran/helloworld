@@ -14,7 +14,7 @@
   -  [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
   
   -  Time Complexity
-    1. A way of showing how the run time of a function increases as the size of input increases
+    -- 1. A way of showing how the run time of a function increases as the size of input increases
   
 # Java Concepts
 1. Encapsulation 
