@@ -15,6 +15,9 @@
   
   1. Time Complexity
        -  A way of showing how the run time of a function increases as the size of input increases
+       1. Linear Time
+       2. Constant Time
+       3. Quadratic Time
   
 # Java Concepts
 1. Encapsulation 
