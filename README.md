@@ -1,7 +1,7 @@
 ## Technical Blog
 
 
-
+-  [GitHubPages Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 -  [Complexity](#complexity)
  
 
