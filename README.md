@@ -21,6 +21,8 @@
        
        Coefficient 
         - a numerical or constant quantity placed before and multiplying the variable in an algebraic expression (e.g. 4 in 4x y)
+        
+        [Logarithmic Complexity](https://www.youtube.com/watch?v=Hatl0qrT0bI)
   
 # Java Concepts
 1. Encapsulation 
