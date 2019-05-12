@@ -6,7 +6,7 @@
  
 
 
-- Algorithm
+- [Algorithm](#Algorithm)
 - [Java Important Concepts](#JavaConcepts)
 
 
@@ -30,4 +30,7 @@
     data (methods) together as a single unit.
 2. Inheritance and Composition
     - Inheritance is a mechanism allowing one type to acquire another,  or inherit fields and methods from another
+    
+    
+# Algorithm
     
