@@ -35,3 +35,4 @@
     
 # Algorithm
    - [Sorting Algortihms](https://www.youtube.com/watch?v=0Ds3KqYeXzA&list=PLTd6ceoshprcXjTkoI9_6zev-yU04vol1&index=7)
+   - [Quick Sort Java](https://www.youtube.com/watch?v=Fiot5yuwPAg)
