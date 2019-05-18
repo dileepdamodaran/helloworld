@@ -9,6 +9,7 @@
 - [Algorithm](#Algorithm)
 - [Java Important Concepts](#JavaConcepts)
 - [Interview preparation](https://github.com/jwasham/coding-interview-university)
+- [Statistics](#Statistics)
 
 
 # Complexity
@@ -36,3 +37,7 @@
 # Algorithm
    - [Sorting Algortihms](https://www.youtube.com/watch?v=0Ds3KqYeXzA&list=PLTd6ceoshprcXjTkoI9_6zev-yU04vol1&index=7)
    - [Quick Sort Java](https://www.youtube.com/watch?v=Fiot5yuwPAg)
+
+# Statistics
+
+   - [Statistics youtube videos] (https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
