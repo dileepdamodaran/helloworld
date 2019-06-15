@@ -44,4 +44,4 @@
    - [Statistics youtube videos](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
    
 # GitHub
-   - [Github Traversy Media] (https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+   - [Github Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
