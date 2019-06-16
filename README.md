@@ -12,6 +12,7 @@
 - [Statistics](#Statistics)
 - [Java Interview Questions](https://www.edureka.co/blog/interview-questions/java-interview-questions/)
 - [GitHub Tutorial](#Github)
+- [Angular Tutorial](#Angular)
 
 # Complexity
   -  [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
@@ -45,3 +46,6 @@
    
 # GitHub
    - [Github Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+   
+# Angular
+   -  [Angular Programming with Mosh -Best Angular Tutorial] (https://www.youtube.com/watch?v=k5E2AVpwsko)
