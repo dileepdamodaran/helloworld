@@ -48,4 +48,4 @@
    - [Github Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
    
 # Angular
-   - [Angular Programming with Mosh -Best Angular Tutorial] (https://www.youtube.com/watch?v=k5E2AVpwsko)
+   - [Angular Programming with Mosh -Best Angular Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko)
