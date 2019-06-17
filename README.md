@@ -13,6 +13,7 @@
 - [Java Interview Questions](https://www.edureka.co/blog/interview-questions/java-interview-questions/)
 - [GitHub Tutorial](#Github)
 - [Angular Tutorial](#Angular)
+- [Session Management](#Session)
 
 # Complexity
   -  [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
@@ -49,3 +50,6 @@
    
 # Angular
    - [Angular Programming with Mosh -Best Angular Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko)
+   
+# Session
+   - [Session Management](https://www.youtube.com/watch?v=2PPSXonhIck)
