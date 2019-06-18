@@ -53,3 +53,4 @@
    
 # Session
    - [Session Management](https://www.youtube.com/watch?v=2PPSXonhIck)
+   - [Spring Security with Angular](https://www.baeldung.com/spring-security-login-angular)
