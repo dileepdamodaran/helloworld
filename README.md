@@ -58,5 +58,5 @@
    - [JWT](https://jwt.io/)
    - [Webseal](https://www.ibm.com/support/knowledgecenter/en/SSPREK_6.1.1/com.ibm.itame.doc_6.1.1/am611_webseal_admin651.htm)
 # Problems
-https://www.geeksforgeeks.org/java-program-to-check-palindrome-using-library-methods/
+Palindrome https://www.geeksforgeeks.org/java-program-to-check-palindrome-using-library-methods/
 (https://www.geeksforgeeks.org/java-program-to-check-palindrome-using-library-methods/)
