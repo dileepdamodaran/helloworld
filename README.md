@@ -30,6 +30,12 @@
         - a numerical or constant quantity placed before and multiplying the variable in an algebraic expression (e.g. 4 in 4x y)
         
         [Logarithmic Complexity](https://www.youtube.com/watch?v=Hatl0qrT0bI)
+         Logarithms are inverse of exponentation
+         2^3=8 (Two to the power of 3 is 8)
+           2 is the base , 3 is the exponent
+           log 8=3 ( Base 2 to the log of 8 is 3)
+              2
+  
   
 # Java Concepts
 1. Encapsulation 
