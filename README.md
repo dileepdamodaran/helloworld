@@ -33,7 +33,7 @@
          Logarithms are inverse of exponentation
          2^3=8 (Two to the power of 3 is 8)
            2 is the base , 3 is the exponent
-           log 8=3 ( Base 2 to the log of 8 is 3)
+           log 8=3 ( log of 8 is 3 , Base is 2)
               2
   
   
