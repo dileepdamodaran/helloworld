@@ -68,6 +68,7 @@
 # Problems
 Palindrome https://www.geeksforgeeks.org/java-program-to-check-palindrome-using-library-methods/
 (https://www.geeksforgeeks.org/java-program-to-check-palindrome-using-library-methods/)
+Shortest distance (https://www.geeksforgeeks.org/shortest-distance-two-cells-matrix-grid/)
 
 # Sharding
 https://www.youtube.com/watch?v=yNrVexoEnFM
