@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=yNrVexoEnFM
 
 # Spring
   - Spring MVC
-   --  DispatcherServlet
+  1. DispatcherServlet
 
 # JavaInterview
 
