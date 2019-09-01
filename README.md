@@ -77,6 +77,7 @@ https://www.youtube.com/watch?v=yNrVexoEnFM
 # Spring
   - Spring MVC
      - DispatcherServlet
+       Spring MVC, as many other web frameworks, is designed around the front controller pattern where a central Servlet, the         DispatcherServlet, provides a shared algorithm for request processing, while actual work is performed by configurable         delegate components.
 
 # JavaInterview
 
