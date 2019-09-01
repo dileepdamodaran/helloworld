@@ -10,7 +10,7 @@
 - [Java Important Concepts](#JavaConcepts)
 - [Interview preparation](https://github.com/jwasham/coding-interview-university)
 - [Statistics](#Statistics)
-- [Java Interview Questions](https://www.edureka.co/blog/interview-questions/java-interview-questions/)
+- [Java Interview Questions](#JavaInterview)
 - [GitHub Tutorial](#Github)
 - [Angular Tutorial](#Angular)
 - [Session Management](#Session)
@@ -75,4 +75,8 @@ Shortest distance (https://www.geeksforgeeks.org/shortest-distance-two-cells-mat
 https://www.youtube.com/watch?v=yNrVexoEnFM
 
 # Spring
+
+# Java Interview
+
+(https://www.edureka.co/blog/interview-questions/java-interview-questions/)
 
