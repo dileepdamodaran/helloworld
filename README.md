@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=yNrVexoEnFM
 
 # Spring
 
-# Java Interview
+# JavaInterview
 
 (https://www.edureka.co/blog/interview-questions/java-interview-questions/)
 
