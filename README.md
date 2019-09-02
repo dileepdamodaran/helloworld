@@ -18,6 +18,8 @@
 - [Sharding](#Sharding)
 - [Spring](#Spring)
 - [Hibernate Interview Questions](#HiberntateInterviewQuestions)
+- [DataBase]
+- [Java Memory/JVM Memory]
 
 # Complexity
   -  [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
