@@ -18,7 +18,7 @@
 - [Sharding](#Sharding)
 - [Spring](#Spring)
 - [Hibernate Interview Questions](#HiberntateInterviewQuestions)
-- [DataBase]
+- [DataBase](#DataBase)
 - [Java Memory/JVM Memory]
 
 # Complexity
@@ -110,3 +110,7 @@ OOP concepts in java
  Key concepts - HQL ,caching, xml as well as JPA annotation mapping, hibernate dialect, hibernate show sql, 
           
           hibernate Second level -ehcache
+          
+ # Database
+ 
+ Database Indexing - https://www.geeksforgeeks.org/indexing-in-databases-set-1/
