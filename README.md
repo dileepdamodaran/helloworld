@@ -38,7 +38,7 @@
               2
   
   
-# Java Concepts
+# JavaConcepts
 1. Encapsulation 
     - Encapsulation is a mechanicsm referring to wrapping data (variables) and code acting on the 
     data (methods) together as a single unit.
