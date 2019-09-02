@@ -8,7 +8,7 @@
 
 - [Algorithm](#Algorithm)
 - [Java Important Concepts](#JavaConcepts)
-- [Interview preparation](https://github.com/jwasham/coding-interview-university)
+- [Jwasham Interview preparation](https://github.com/jwasham/coding-interview-university)
 - [Statistics](#Statistics)
 - [Java Interview Questions](#JavaInterview)
 - [GitHub Tutorial](#Github)
