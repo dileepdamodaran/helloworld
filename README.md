@@ -104,3 +104,5 @@ OOP concepts in java
  # HiberntateInterviewQuestions
  
  (https://www.journaldev.com/3633/hibernate-interview-questions-and-answers)
+ 
+ Key concepts - HQL ,caching 
