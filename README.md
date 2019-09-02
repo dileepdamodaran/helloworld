@@ -105,4 +105,6 @@ OOP concepts in java
  
  (https://www.journaldev.com/3633/hibernate-interview-questions-and-answers)
  
- Key concepts - HQL ,caching 
+ Key concepts - HQL ,caching, xml as well as JPA annotation mapping, hibernate dialect, hibernate show sql, 
+          
+          hibernate Second level -ehcache
