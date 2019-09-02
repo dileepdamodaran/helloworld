@@ -17,7 +17,7 @@
 - [Problems and Solutions](#Problems)
 - [Sharding](#Sharding)
 - [Spring](#Spring)
-- [Hibernate Interview Questions](#Hiberntate Interview Questions)
+- [Hibernate Interview Questions](#HiberntateInterviewQuestions)
 
 # Complexity
   -  [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
@@ -101,6 +101,6 @@ OOP concepts in java
  https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
   
  
- # Hiberntate Interview Questions
+ # HiberntateInterviewQuestions
  
  (https://www.journaldev.com/3633/hibernate-interview-questions-and-answers)
