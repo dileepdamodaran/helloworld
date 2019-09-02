@@ -94,9 +94,8 @@ OOP concepts in java
   Abstract class vs interface - (https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
       Examples of class in jdk
        Abstract class -https://docs.oracle.com/javase/8/docs/api/java/util/AbstractMap.html
-       Interface - ex: Comparable
-       
-       https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/
+       Interface - ex: Comparable       
+       (https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
   
   
 
