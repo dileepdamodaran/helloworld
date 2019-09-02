@@ -84,15 +84,15 @@ https://www.youtube.com/watch?v=yNrVexoEnFM
 (https://www.edureka.co/blog/interview-questions/java-interview-questions/)
 
 OOP concepts in java
-  abstraction, encapsulation, inheritance, polymorphism
+  - abstraction, encapsulation, inheritance, polymorphism
   
-  encapsulation - Encapsulation. This is the practice of keeping fields within a class private, 
+  - encapsulation - Encapsulation. This is the practice of keeping fields within a class private, 
   then providing access to them via public methods.
   
-  polymorphism - method overloading
+  - polymorphism - method overloading
   
-  Abstract class vs interface - (https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
-      Examples of class in jdk
+     -- Abstract class vs interface - (https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
+        Examples of abstract class in jdk
        Abstract class -https://docs.oracle.com/javase/8/docs/api/java/util/AbstractMap.html
        Interface - ex: Comparable       
        (https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
