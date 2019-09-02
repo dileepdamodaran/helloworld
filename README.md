@@ -17,7 +17,7 @@
 - [Problems and Solutions](#Problems)
 - [Sharding](#Sharding)
 - [Spring](#Spring)
-- [Hibernate Interview Questions](#Hibernate)
+- [Hibernate Interview Questions](#Hiberntate Interview Questions)
 
 # Complexity
   -  [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
