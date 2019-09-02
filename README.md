@@ -96,6 +96,8 @@ OOP concepts in java
        Abstract class -https://docs.oracle.com/javase/8/docs/api/java/util/AbstractMap.html
        Interface - ex: Comparable       
        (https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
+       
+ https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
   
   
 
